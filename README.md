@@ -9,6 +9,9 @@ Portfolio: [shippedby.app/@damon](https://shippedby.app/@damon)
 **[shippedby](https://shippedby.app)**
 Built and launched the entire platform, not just my profile. Verified portfolio profiles show live, checked proof of what people shipped with AI, so companies can hire them.
 
+**[Bull Run: Closing Bell](https://apps.apple.com/us/app/bull-run-closing-bell/id6797774422)**
+A multiplayer stock market board game, now live on the App Store. Play online with friends or seat bots at the table. Also free in the browser at [bullrun.possiblstudio.com](https://bullrun.possiblstudio.com).
+
 **[Plinth](https://plinth-5q5.pages.dev)**
 Browser 3D building editor. Sketch rooms and buildings in 3D in the browser with no install.
 
